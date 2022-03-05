@@ -3,9 +3,6 @@
     overflow-x: hidden;
     scroll-behavior: smooth;
   }
-  body {
-    height: 12000px;
-  }
   .container {
     overflow-x: hidden;
   }

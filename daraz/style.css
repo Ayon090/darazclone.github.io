@@ -240,7 +240,8 @@ h3 {
   overflow: hidden;
   cursor: pointer;
   background: rgb(255, 255, 255);
-  margin-left: 1px;
+  margin-left: 6px;
+  /* transition: auto; */
 }
 .product:hover {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
